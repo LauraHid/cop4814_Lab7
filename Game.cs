@@ -24,7 +24,7 @@ namespace GameLibrary
             this.team1Score = team1Score;
             this.team2Score = team2Score;
         }
-
+//this is a toString method
         public override string ToString()
         {
             return String.Format(team1 + " " + "(" + team1Score + ")" + " " + " - " + " " + team2 + " " + "(" + team2Score + ")");

@@ -9,7 +9,7 @@ namespace GameLibrary
 {
     public class Games
     {
-
+//these are variables 
         public string team1;
         public string team2;
         public int team1Score;

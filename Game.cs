@@ -1,4 +1,8 @@
 //hi my name is laura. this is lab 7 step 7, this is a comment for the double modification
+=======
+//hi my name is laura. this is lab 7 step 7
+//this is a comment for the double modification
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +13,7 @@ namespace GameLibrary
 {
     public class Games
     {
-
+//these are variables 
         public string team1;
         public string team2;
         public int team1Score;
